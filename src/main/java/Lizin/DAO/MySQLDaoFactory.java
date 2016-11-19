@@ -1,4 +1,4 @@
-package main.java.DAO;
+package main.java.Lizin.DAO;
 
 import javax.naming.Context;
 import javax.naming.InitialContext;

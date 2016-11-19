@@ -1,6 +1,6 @@
-package main.java.DAO;
+package main.java.Lizin.DAO;
 
-import main.java.pojo.User;
+import main.java.Lizin.pojo.User;
 
 /**
  * Created by Данил on 14.11.2016.

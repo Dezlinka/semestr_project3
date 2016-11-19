@@ -1,4 +1,4 @@
-package main.java.pojo;
+package main.java.Lizin.pojo;
 
 /**
  * Created by Ilya Evlampiev on 20.10.2015.

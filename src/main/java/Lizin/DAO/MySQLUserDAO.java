@@ -1,6 +1,4 @@
-package main.java.DAO;
-
-import main.java.pojo.*;
+package main.java.Lizin.DAO;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

@@ -1,10 +1,10 @@
-package main.java.servlets;
+package main.java.Lizin.web;
 
-import main.java.DAO.DaoFactory;
-import main.java.DAO.TokenDao;
-import main.java.pojo.Lizin;
-import main.java.pojo.Token;
-import main.java.pojo.User;
+import main.java.Lizin.DAO.DaoFactory;
+import main.java.Lizin.DAO.TokenDao;
+import main.java.Lizin.pojo.Lizin;
+import main.java.Lizin.pojo.Token;
+import main.java.Lizin.pojo.User;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-import main.java.DAO.UserDAO;
+import main.java.Lizin.DAO.UserDAO;
 @WebServlet("/register")
 public class RegisterServlet extends HttpServlet {
 

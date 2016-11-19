@@ -1,4 +1,4 @@
-package main.java.pojo;
+package main.java.Lizin.pojo;
 
 import java.util.Date;
 
