@@ -22,11 +22,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="Lizins" />
+      </profile>
+      <profile default="false" name="Annotation profile for semestr_project" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="semestr_project" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Lizins" target="1.5" />
+      <module name="semestr_project" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

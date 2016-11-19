@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/web/Lizins.iml" filepath="$PROJECT_DIR$/web/Lizins.iml" />
       <module fileurl="file://$PROJECT_DIR$/semestr_project.iml" filepath="$PROJECT_DIR$/semestr_project.iml" />
     </modules>
   </component>
